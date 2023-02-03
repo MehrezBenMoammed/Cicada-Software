@@ -1,2 +1,3 @@
-# Cicada-Software-
-Cicada Software 
+# CicadaOS
+Cicada Software Operating
+https://nexaos.github.io/CicadaOS/
